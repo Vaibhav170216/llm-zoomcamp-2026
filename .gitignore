@@ -5,3 +5,8 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/ 
 .idea/
+
+faq.fb*
+*.db
+*.db-shm
+*.db-wal
